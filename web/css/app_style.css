@@ -1,0 +1,11 @@
+.nav-background{
+    background: #2962ff!important;
+}
+.banner-background {
+    background: #448aff!important;
+    clip-path: polygon(63% 0, 100% 0, 100% 35%, 100% 81%, 77% 95%, 48% 84%, 21% 95%, 0 83%, 0 0, 26% 0);
+}
+.primary-background{
+    background: #007BFF!important;
+}
+
